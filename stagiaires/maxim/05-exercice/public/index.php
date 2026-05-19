@@ -1,0 +1,20 @@
+<?php
+// 05-exercice/public/index.php
+
+# Importation de ../config-dev.php
+include 
+
+# Importation du router : ROOT_PROJECT."/controller/routerController.php"
+?>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    test
+    
+</body>
+</html>
